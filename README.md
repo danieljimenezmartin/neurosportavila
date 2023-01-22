@@ -1,6 +1,6 @@
 ## Descripción 🖋
 
-Esta es mi página web personal creada con HTML5, CSS3, y JavaScript. La web ha sido desarrollada con un diseño responsive. En ella se incluye mi currículum con detalles de mi formación, trabajos, hobbies, etc; así como un portfolio con detalles de mis proyectos tanto de desarrollo web como de diseño gráfico.
+Para la creación de este sitio web se ha empleado la tecnología de WordPress, mediante la creación de una plantilla personalizada. Se ha utilizado lenguaje HTML, CSS, JavaScript, librerías Jquery, y se han implementado bases de datos mediante MySQL para la creación del blog del sitio web. 
 
 ## Autor 👨🏽‍💻
 **Daniel Jiménez Martín**
