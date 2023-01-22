@@ -1,0 +1,53 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	background-color: #0976a1;
+}
+
+img {
+	width: 100%;
+}
+
+#grande {
+	height: 100%;
+}
+
+#mediana, #vertical {
+	display: none;
+}
+
+@media screen and (max-aspect-ratio: 16/8) and (min-aspect-ratio: 5/3) {
+	#mediana {
+		display: none;
+	}
+}
+
+@media screen and (max-aspect-ratio: 5/3) and (min-aspect-ratio: 3/3) {
+	#grande {
+		display: none;
+	}
+	
+	#mediana {
+		display: block;
+		height: 100%;
+	}
+	#mediana img {
+		height: 99%;
+	}
+}
+
+@media screen and (max-aspect-ratio: 3/3){
+	#grande {
+		display: none;
+	}
+	
+	#vertical {
+		display: block;
+	}
+}
+
+

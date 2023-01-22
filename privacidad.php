@@ -1,0 +1,78 @@
+<?php include("header.php"); ?>
+
+		<title>Neurosport Clínica de Fisioterapia - Política de privacidad</title>
+	
+	</head>
+	<body lang="es">
+	
+<?php include("menu.php"); ?>
+			
+			<!-- Content -->
+			<div id="content">
+				<!-- masthead -->
+		        <div id="masthead">
+					<span class="head">Política de Privacidad</span>
+					<ul class="breadcrumbs">
+						<li><a href="inicio.php">inicio</a>/privacidad</li>
+					</ul>
+				</div>
+	        	<!-- ENDS masthead -->
+				
+				<!-- page content -->
+				<div id="page-content-full">
+				
+				<p style="text-align: justify"><strong>Última fecha de revisión: 23-12-2017</strong></p>
+				<p style="text-align: justify">En cumplimiento con lo dispuesto en la normativa de protección de datos (Reglamento UE 2016/679, de 27 de abril de 2016), <em>Mariano González Sáez</em> (en adelante, "El Titular"), Titular del sitio web <em>http://www.neurosportavila.es/</em> (en adelante, el “Sitio Web”), establece la siguiente Política de Privacidad, que seguirá en el tratamiento de datos de carácter personal. Dicha política se entiende, en todo caso, sin perjuicio de los dispuesto en el correspondiente <a href="avisolegal.php">Aviso Legal</a> y en la correspondiente <a href="cookies.php">Política de Cookies</a>.</p>
+				<p style="text-align: justify"><strong>1.- Responsable del Tratamiento</strong></p>
+				<p style="text-align: justify"><strong>Responsable del Tratamiento:</strong> Mariano González Sáez</p>
+				<p style="text-align: justify"><strong>Dirección:</strong> C/ Doctor Jesús Galán 24, 05003, Ávila</p>
+				<p style="text-align: justify"><strong>Email:</strong> <a href="mailto:info@neurosportavila.es">info@neurosportavila.es</a></p>
+				<p style="text-align: justify"><strong>Teléfono:</strong> 920 25 25 62</p>
+				<p style="text-align: justify"><strong>Datos del Delegado de Protección de Datos: </strong><a href="mailto:info@legaltech.es">info@legaltech.es</a></p>
+				<p style="text-align: justify">Los datos que pudieran solicitarse a los usuarios del presente Sitio Web a través de formularios de contacto, aquellas otras proporcionadas por el mero hecho de acceder al Sitio Web (cookies), aquellos otros relacionados con los posibles comentarios en las distintas páginas corporativas de las redes sociales enlazadas desde el presente Sitio Web, los datos personales que el usuario introduzca dentro de las secciones habilitadas o las proporcionados por el resto de vías o canales de comunicación habilitados (por ejemplo, correo electrónico) serán tratados por el responsable del tratamiento indicado. </p>
+				<p style="text-align: justify"><strong>2.- Finalidades del tratamiento</strong></p>
+				<p style="text-align: justify">Depende del tratamiento de datos realizado:</p>
+				<p style="text-align: justify">- Por el mero hecho de visitar el Sitio Web, existen determinadas informaciones que se recoge en los servidores que prestan servicios de hosting. Entre dichas informaciones está la relativa a la dirección IP desde la que se accede al Sitio Web. La finalidad del tratamiento en este caso es facilitarle la navegación por la web. También podremos recoger determinada información (cookies), que trataremos según la <a href="cookies.php">Política de Cookies</a> específica que puede consultar.</p>
+				<p style="text-align: justify">- Si nos proporciona los datos a través de alguno o algunos de los formularios habilitados, la finalidad será la relativa a la indicada en el formulario correspondiente. Por ejemplo, en el caso de proporcionarnos sus datos en formularios de contacto, la finalidad será responder en su caso a la consulta realizada. </p>
+				<p style="text-align: justify">- Si nos proporciona información a través de alguna o algunas de las redes sociales que esta entidad mantiene y que están enlazadas a través del presente Sitio Web, asumiendo esta entidad la figura de Responsable del Tratamiento de los datos aportados (por ejemplo, fotos subidas por nosotros o por terceros, comentarios que el interesado realice en relación a publicaciones que hagamos, etc), trataremos la información exclusivamente en relación a su consulta, gestión o comentario realizado, y siempre dentro de la red social y en el contexto de la misma, no procediéndose en ningún caso a la extracción de esos datos salvo que obtengamos consentimiento para ello por parte del interesado. No obstante, el uso de estas plataformas está sujeto a la aceptación íntegra de sus condiciones, y ello implica el tratamiento de sus datos con otras condiciones distintas a las aquí expuestas. Los perfiles oficiales en las redes sociales enlazadas desde este Sitio Web han sido creados para que conozca mejor nuestra actividad y crear un canal alternativo de comunicación con las personas interesadas por nuestra entidad y los servicios que ofrecemos, pero declinamos la responsabilidad del tratamiento de datos que las empresas que gestionan las mencionadas redes sociales hagan de los mismos.  </p>
+				<p style="text-align: justify">- Si nos proporciona datos personales a través de correo electrónico o a través de otros medios (tradicionales o no), en general trataremos sus datos en relación a la gestión o consulta realizada. En cumplimiento con la Ley 34/2002, de Servicios de la Sociedad de la Información y Comercio Electrónico, El Titular no remitirá comunicaciones comerciales sin identificarlas como tales y sin una previa información al respecto. A estos efectos no será considerado como comunicación comercial toda la información que se envíe a los interesados siempre que tenga por finalidad el mantenimiento de la relación contractual o respuesta ante su solicitud o aquellas otras informaciones relacionadas con su solicitud -en su caso- y que se deriven directamente de esta relación.</p>
+				<p style="text-align: justify"><strong>3.- Período de conservación de sus datos</strong></p>
+				<p style="text-align: justify">Depende del tratamiento de datos realizado:</p>
+				<p style="text-align: justify">- Los datos relacionados con las  cookies existentes en este Sitio Web tienen un periodo de conservación indicado en la propia <a href="cookies.php">Política de Cookies</a>.</p>
+				<p style="text-align: justify">- Los datos que nos haga llegar a través de los medios que este Sitio Web pone a su disposición (formularios, correo electrónico) se conservarán mientras dure la relación con el interesado o el mismo nos retire su consentimiento en su caso. Posteriormente conservaremos los datos según exista o no obligación legal, siendo en cualquier caso el periodo mínimo exigido dependiendo de la relación o gestión que se realice. Por ejemplo, conservaremos los datos  de facturación por obligación legal tributaria y contable durante 6 años. Existe también el plazo de 5 años que establece el art. 1964 del Código Civil (acciones personales sin plazo especial). </p>
+				<p style="text-align: justify">- Los datos incluídos en las redes sociales enlazadas a través del presente Sitio Web se mantendrán por nuestra parte hasta que el interesado retire su consentimiento. Sin embargo, es posible que las entidades responsables conserven estos datos según otras politicas de tratamiento de la que no nos hacemos responsables en ningún caso.</p>
+				<p style="text-align: justify">- En relación a la gestión sanitaria (en caso de tratar sus datos de historial clínico), los datos los conservaremos mientras dure la prestación (con los requisitos de persistencia, trazabilidad de cambios, autenticidad, integridad y legibilidad establecidos en la legislación vigente), y posteriormente los mantendremos bloqueados durante un periodo de 5 años.</p>
+				<p style="text-align: justify"><strong>3.- Legitimación para el tratamiento de sus datos</strong></p>
+				<p style="text-align: justify">Depende del tratamiento de datos realizado:</p>
+				<p style="text-align: justify">- La existencia de una o varias obligaciones legales que nos obligan al tratamiento. Por ejemplo, la mencionada obligación tributaria en relación a las facturas emitidas.</p>
+				<p style="text-align: justify">- Nos ha dado el consentimiento para tratar sus datos en los términos expuestos, marcando la casilla de aceptación correspondiente o firmando el documento expositivo que se le presente en un momento previo al tratamiento de su datos.</p>
+				<p style="text-align: justify">- Existe un interés legítimo para el tratamiento. Por ejemplo, en el caso de que el interesado nos proporcione sus datos en relación a una gestión encomendada, los trataremos porque entendemos que tenemos que dar cumplida respuesta a la misma. </p>
+				<p style="text-align: justify"><strong>4.- Destinatario de sus datos</strong></p>
+				<p style="text-align: justify">Además del Responsable del Tratamiento arriba expuesto, los datos podrán tratarse por otras entidades dependiendo de la naturaleza del tratamiento de datos:</p>
+				<p style="text-align: justify">- Las entidades responsables de las redes sociales enlazadas desde el presente sitio web, en caso de que  el interesado proporcione información a través de las mismas.</p>
+				<p style="text-align: justify">- Determinadas empresas responsable de las cookies que se alojan en su equipo por el mero hecho de visitar el presente Sitio Web pueden tener información asociada a su dirección IP, hábitos de navegación, etc, según se describe en la correspondiente <a href="cookies.php">Política de Cookies</a>.</p>
+				<p style="text-align: justify">- Determinadas empresas de servicios relacionados con el presente Sitio Web. Por ejemplo, la entidad que nos presta servicios de hosting (alojamiento).</p>
+				<p style="text-align: justify">- Por obligación legal, la Agencia Española de Administración Tributaria también puede requerinos información de trascendencia tributaria, teniendo por nuestra parte la obligación de proporcionársela.</p>
+				<p style="text-align: justify"><strong>5.- Sus Derechos</strong></p>
+				<p style="text-align: justify">Cualquier persona tiene derecho a obtener confirmación sobre si en esta entidad estamos tratando datos personales que les conciernan o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos. En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones. En otras circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos. En aquellos casos en los que nos haya dado el consentimiento, le informamos adicionalmente que tiene el derecho a retirar el mismo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada. Si lo solicita, esta entidad dejará de tratar los datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones. También puede requerirnos para que sus datos sean tratados por otra entidad, facilitando esta entidad la portabilidad de sus datos al nuevo responsable. Con tal fin, se han elaborado unos formularios específicos (que están a su disposición y que puede solicitar) para que pueda ejercitar sus derechos de acceso, rectificación, supresión, limitación al tratamiento, oposición al tratamiento, oposición a la toma de decisiones individuales automatizadas incluída la elaboración de perfiles y a la portabilidad de los datos. En todo caso, si considera que estos derechos no se han satisfecho convenientemente por nuestra parte, le informamos que puede presentar una reclamación ante la autoridad de control (<em>Agencia Española de Protección de Datos, Jorge Juan 6, 28001, Madrid</em>, o ante su sede electrónica <a href="https://sedeagpd.gob.es" target="blank">https://sedeagpd.gob.es</a>).</p>
+				<p style="text-align: justify">Si lo prefiere, el interesado puede dirigirse por correo postal a la dirección que figura en el encabezamiento, o por correo electrónico en el email indicado, incluyendo fotocopia de su DNI/NIF o documento equivalente  para justificar su identidad y solicitar el ejercicio de los derechos arriba mencionados.</p>
+				<p style="text-align: justify"><strong>6.- Especial referencia a redes sociales</strong></p>
+				<p style="text-align: justify">El Titular mantiene varias páginas y/o perfiles en varias redes sociales, enlazadas a través del presente Sitio Web. El Titular no será responsable de lo publicado por terceros en las mencionadas redes sociales. El uso y tratamiento de datos que terceros hagan en las mencionadas redes sociales estará sometido a las condiciones generales o particulares distintas a la presente. El Titular recomienda su atenta lectura y concienciación al respecto.</p>
+				<p style="text-align: justify">Nuestra presencia en Internet incluye presencia en la red social <em>facebook.com</em>, operada por Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, EE. UU. ("Facebook"). Puede buscarnos en la mencionada red social y pulsar "me gusta" en la misma. Si ha iniciado sesión en Facebook, este podrá asignar la navegación a su cuenta de Facebook. Consulte la finalidad y el alcance de la recogida de datos y su procesamiento y uso por parte de Facebook, así como sus derechos al respecto y las posibilidades de configuración para proteger su privacidad en la declaración de privacidad de Facebook: <a href="http://www.facebook.com/policy.php" target="blank">http://www.facebook.com/policy.php</a>.</p>
+				<p style="text-align: justify">En relación a <em>Twitter</em>, cuando un usuario nos sigue pinchando el botón “Seguir”, tendremos acceso a la información de las personas que nos siguen, concretamente, el nombre de usuario, fotografía (en caso de que el usuario haya puesto una fotografía en su perfil), y comentarios o “Tweets” realizados así como al resto de la información que ha publicado en su perfil como por ejemplo usuarios a los que sigue y sus seguidores, aunque no utilizaremos dicha información. En especial, la información que el usuario da en su "biografía" puede ser accesible por nosotros. Al igual que en la anterior plataforma, es responsabilidad del usuario el uso que haga de la Red Social. Los datos de los usuarios que nos siguen en Twitter los utilizamos únicamente para gestionar y responder los “Tweets” o mensajes que intercambiamos con ellos. Puede consultar la política de privadad de Twitter en el siguiente enlace: <a href=" https://twitter.com/privacy" target="blank"> https://twitter.com/privacy</a>.</p>
+				<p style="text-align: justify">En cuanto a la red social <em>Linkedin</em>, el responsable del tratamiento tratará los datos según su política de privacidad accesible en <a href=" https://www.linkedin.com/legal/privacy-policy?_l=es_ES" target="blank">https://www.linkedin.com/legal/privacy-policy?_l=es_ES</a>. Nuevamente, trataremos sus datos exclusivamente en relación a las comunicaciones que recibamos a través de esta red social y en el contexto de la misma, pero es responsabilidad del usuario el uso que haga de esta red social.</p>
+				<p style="text-align: justify"><strong>7.- Cookies y otros aspectos</strong></p>
+				<p style="text-align: justify">Por favor, lea al respecto nuestra <a href="cookies.php">Política de Cookies</a>.</p>
+								
+				</div>
+			<!-- ENDS page content -->
+			</div>
+			<!-- ENDS content -->
+			
+			<div class="clearfix"></div>
+			<div class="shadow-main"></div>
+			
+		</div>
+		<!-- ENDS MAIN -->
+		
+<?php include("footer.php"); ?>
