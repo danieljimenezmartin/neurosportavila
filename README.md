@@ -8,12 +8,6 @@ Para la creación de este sitio web se ha empleado la tecnología de WordPress, 
 * [LinkedIn](https://www.linkedin.com/in/danieljimenezmartin)
 * [Portfolio web](https://www.danieljimenezmartin.com)
 
-## Ver ejemplo en vivo ⚡
-- [http://danieljimenezmartin.com/](http://danieljimenezmartin.com/)
-
-## Instalación 🎯
-Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble clic en el archivo index.html
-
 ## Contacto 📫
 Si quieres contactar conmigo puedes escribirme a hola@danieljimenezmartin.com
 
