@@ -1,6 +1,6 @@
 ## Descripción 🖋
 
-Para la creación de este sitio web se ha empleado lenguaje HTML, CSS, JavaScript, librerías Jquery y pHp. 
+Para la creación de este sitio web se ha empleado lenguaje HTML, CSS, JavaScript, librerías Jquery y pHp. El blog se ha diseñado empleando la tecnología de WordPress, mediante la creación de una plantilla personalizada y se han implementado bases de datos utilizando MySQL.
 
 ## Autor 👨🏽‍💻
 **Daniel Jiménez Martín**
