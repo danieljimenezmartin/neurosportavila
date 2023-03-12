@@ -6,7 +6,7 @@ Para la creación de este sitio web se ha empleado lenguaje HTML, CSS, JavaScrip
 **Daniel Jiménez Martín**
 
 * [LinkedIn](https://www.linkedin.com/in/danieljimenezmartin)
-* [Portfolio web](https://www.danieljimenezmartin.com)
+* [Portfolio web](https://www.danyjimenez.com)
 
 ## Ver ejemplo en vivo ⚡
 - [https://danieljimenezmartin.github.io/neurosportavila/inicio.html](https://danieljimenezmartin.github.io/neurosportavila/inicio.html)
